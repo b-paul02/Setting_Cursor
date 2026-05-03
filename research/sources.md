@@ -1,4 +1,6 @@
 | No. | Creator Name | Category | Profile Link | Why relevant |
 |---:|---|---|---|---|
 | 1 | Irina Maltseva | AI SEO / SaaS visibility expert | https://www.linkedin.com/in/irinamaltseva/ | Founder of Seen and AI SEO Advisor for SaaS. Her work focuses on helping SaaS companies get visibility across Google and LLM/AI answer engines. |
-
+| 2 | Amanpreet Singh | AI SEO / GEO specialist for B2B brands | https://www.linkedin.com/in/amanpreetsinghgulati/ | AI SEO specialist focused on B2B brands, GEO, Google and AI search visibility, brand mentions, human-written content, and revenue-driven SEO. |
+| 3 | Sunny Grewal | AI SEO / AEO creator for SaaS brands | https://www.linkedin.com/in/sunny-grewal/ | Top AI SEO voice focused on AI SEO, AEO, SaaS brand visibility, creator partnerships, and influencer-led growth. Potentially relevant for understanding how SaaS brands build visibility across Google and AI answer engines. |
+| 4 | Navneet Prashar | SEO & AI Search Optimization Consultant | https://www.linkedin.com/in/thenavneetprashar/?skipRedirect=true | SEO and AI Search Optimization Consultant focused on content optimization, ChatGPT and Claude workflows, AEO, GEO, traditional SEO, and AI search visibility across platforms like ChatGPT, Perplexity, Google AI Overviews, and Gemini. |
